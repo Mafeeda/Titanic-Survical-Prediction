@@ -9,3 +9,8 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 ## Objective
 
 The Objective of Dataset is to predict whether a given passenger survived or not
+
+
+## Applying Algorithms
+
+Logistic Regression, Decision Tree, Random Forest, Gradient Boost, XG Boost, KNN, SVM, Naive Bayes, Ada Boost,and Extra Tree
